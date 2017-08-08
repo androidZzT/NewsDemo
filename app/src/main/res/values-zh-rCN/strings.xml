@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsDemo</string>
+    <string name="net_error">请检查网络</string>
+    <string name="collect">收藏</string>
+    <string name="collect_list">收藏列表</string>
+    <string name="news">新闻</string>
+    <string name="collect_success">收藏成功</string>
+    <string name="cancel_collect">取消收藏</string>
+    <string name="no_collections">还没有收藏新闻</string>
+
+</resources>

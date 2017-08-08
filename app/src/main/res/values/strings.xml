@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsDemo</string>
+
+    <string name="net_error">Please check your network connection.</string>
+    <string name="collect">Collect</string>
+    <string name="collect_list">Collections</string>
+    <string name="news">News</string>
+    <string name="collect_success">Collect Successfully</string>
+    <string name="cancel_collect">Cancel collect</string>
+    <string name="no_collections">No Collections</string>
+
+</resources>
